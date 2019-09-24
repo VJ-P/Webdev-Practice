@@ -1,0 +1,24 @@
+h1{
+	color: rgb(255,0,0);
+/*	border-color: purple;
+	border-width: 5px;
+	border-style: solid;*/
+
+	border: 8px dashed rgb(255,100,80);
+}
+
+li{
+	color: green;
+}
+
+h4{
+	color: #000000;
+	background: rgb(255,100,80);
+}
+
+body{
+	background: pink;
+/*	background: url("https://www.neenahpaper.com/-/media/images/storefront/chips/classic-woodgrain-papers/classic-woodgrain-papers-solar-white-woodgrain.ashx");
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
